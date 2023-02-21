@@ -8,16 +8,29 @@ h1 {
     text-decoration: underline;
     text-decoration-color: #FDEDF0;
     text-decoration-thickness: 5px;
-    text-decoration-style: wavy ;
+    text-decoration-style: wavy;
+    text-shadow: 2px 4px 4px lightgrey;
 }
 
-footer {
+.banner {
     text-align: center;
     background-color: #FDEDF0;
     padding: 10px;
 }
-footer a {
+.banner a {
     margin: 0 30px;
     color: black;
     text-decoration: none;
 }
+
+.column {
+    flex: 50%;
+    padding: 0 4px;
+    max-width: 100%;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 500px;
+  }
