@@ -37,7 +37,6 @@ h3 {
     justify-content: center;
     margin: 30px;
     max-width: 100%;
-
 }
 
 .column {
@@ -61,4 +60,21 @@ h3 {
 
   .contact-info {
     text-align: center;
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid #BBDEE0;
+    border-radius: 20px;
   }
+
+.contact-pic {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    max-width: 100%;
+}
+
+.shiny-croissant {
+    padding: 0 4px;
+    width: 200px;
+    line-height: 30px;
+}
