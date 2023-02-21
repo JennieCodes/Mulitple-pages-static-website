@@ -1,5 +1,6 @@
 h1,
 p {
+    font-family: sans-serif;
     text-align: center;
     padding: 20px;
 }
@@ -9,6 +10,14 @@ h1 {
     text-decoration-color: #FDEDF0;
     text-decoration-thickness: 5px;
     text-decoration-style: wavy;
+    text-shadow: 2px 4px 4px lightgrey;
+}
+
+h3 {
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #FDEDF0;
     text-shadow: 2px 4px 4px lightgrey;
 }
 
@@ -33,4 +42,11 @@ h1 {
     margin-top: 8px;
     vertical-align: middle;
     width: 500px;
+  }
+
+  .steps {
+    margin: 40px;
+    padding: 20px;
+    border: 1px solid #BBDEE0;
+    border-radius: 20px;
   }
