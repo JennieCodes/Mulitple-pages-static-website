@@ -50,3 +50,7 @@ h3 {
     border: 1px solid #BBDEE0;
     border-radius: 20px;
   }
+
+  .contact-info {
+    text-align: center;
+  }
