@@ -1,0 +1,23 @@
+h1,
+p {
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    font-family: 'Petit Formal Script', cursive;
+    text-decoration: underline;
+    text-decoration-color: #FDEDF0;
+    text-decoration-thickness: 5px;
+    text-decoration-style: wavy ;
+}
+
+footer {
+    text-align: center;
+    background-color: #FDEDF0;
+    padding: 10px;
+}
+footer a {
+    margin: 0 30px;
+    color: black;
+    text-decoration: none;
+}
